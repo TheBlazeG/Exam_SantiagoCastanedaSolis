@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exam_Santiago", "Exam_Santiago.vcxproj", "{1F24A83D-5CE0-4313-B7F7-72B1C6B23178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F24A83D-5CE0-4313-B7F7-72B1C6B23178}.Debug|x64.ActiveCfg = Debug|x64
+		{1F24A83D-5CE0-4313-B7F7-72B1C6B23178}.Debug|x64.Build.0 = Debug|x64
+		{1F24A83D-5CE0-4313-B7F7-72B1C6B23178}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F24A83D-5CE0-4313-B7F7-72B1C6B23178}.Debug|x86.Build.0 = Debug|Win32
+		{1F24A83D-5CE0-4313-B7F7-72B1C6B23178}.Release|x64.ActiveCfg = Release|x64
+		{1F24A83D-5CE0-4313-B7F7-72B1C6B23178}.Release|x64.Build.0 = Release|x64
+		{1F24A83D-5CE0-4313-B7F7-72B1C6B23178}.Release|x86.ActiveCfg = Release|Win32
+		{1F24A83D-5CE0-4313-B7F7-72B1C6B23178}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9A6649-3E15-4E6B-9EFB-D25E556AABCA}
+	EndGlobalSection
+EndGlobal
