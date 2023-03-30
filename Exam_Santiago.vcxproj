@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Exam_Santiago.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GMN.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

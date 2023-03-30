@@ -1,13 +1,13 @@
-// Exam_Santiago.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
+
 
 #include <iostream>
+#include "GMN.h"
+#include<cstdlib>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+		Examen1();
 }
 
-// Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
-// Depurar programa: F5 o menú Depurar > Iniciar depuración
 
